@@ -1,0 +1,97 @@
+.red{
+    background-color: red;
+    padding: 10px;
+}
+.green{
+    background-color: green;
+    padding: 10px;
+}
+.asidebkg{
+    background-color: 	#2D3033;
+    height: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.portrate{
+    width:150px;
+}
+
+body{
+    background-color: #77777725;
+}
+.holdimg{
+    position: relative;
+text-align: center;
+}
+.textposition {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+  }
+  h1, h2, h3, h4, h5, h6, p{
+    color:#777777;
+  }
+  .active{
+    font-weight: bold;
+    
+  }
+  a:hover{
+    border-bottom: solid aqua 2px;
+  }
+  .footer{
+    background-color: black;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+    color:#ffffff;
+
+  }
+
+  /* buttons */
+
+  .mybtn{
+    background-color: aqua;
+    border-radius: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 5px 5px 5px #00000080;
+  }
+  .mybtn:hover{
+    background-color: rgb(14, 54, 54);
+    color:white;   
+  }
+  .max100{
+    width:100px;
+  }
+  .pbkg{
+    padding: 12px;
+    background-color: #ADD8E635;
+  }
+  .personalinfo{
+    color:#ffffff;
+  }
+  .closebtn{
+    background-color: gray;
+    border-radius: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 5px 5px 5px #00000080;
+
+  }
+  .accentcolor{
+    color: #6FA9B6;
+    font-weight: bolder;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .max500{
+    max-width: 350px;
+  }
+  .min200{
+    min-width: 200px;
+  }
+
+
+
