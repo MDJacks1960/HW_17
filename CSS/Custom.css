@@ -11,6 +11,7 @@
     height: auto;
     padding-left: 15px;
     padding-right: 15px;
+    text-align: center;
 }
 .portrate{
     width:150px;
@@ -38,10 +39,10 @@ text-align: center;
     
   }
   a:hover{
-    border-bottom: solid aqua 2px;
+    border-bottom: solid aqua 0.5px;
   }
   .footer{
-    background-color: black;
+    background-color: #2D3033;
     padding: 5px;
     width: 100%;
     text-align: center;
@@ -92,6 +93,34 @@ text-align: center;
   .min200{
     min-width: 200px;
   }
+  .bkgnone{
+    background-color: none;
+    color: #777777;
+    text-decoration: none;
+    padding:10px;
+  }
+ .red{
+  background-color: red;
+  padding: 10px;
+ }
+ .green{
+  background-color: green;
+  padding: 10px;
+ }
+
+ .offcanvas-title{
+  text-align: center;
+  background-color: black;
+ }
+ .offcanvas-body{
+  background-color: black;
+ }
+ .offcanvas-header{
+  background-color: black;
+ }
+ .x{
+  color:777777;
+ }
 
 
 
