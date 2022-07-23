@@ -122,5 +122,15 @@ text-align: center;
   color:777777;
  }
 
+ .max150{
+  width: 150px;
+ }
+ .max440{
+  max-width: 450px;
+ }
+ .exp{
+  color:darkred;
+ }
+
 
 
