@@ -1,0 +1,66 @@
+.max200{
+    max-width: 200px;
+    min-width: 150px;
+    padding: 12px;
+}
+.red{
+    background-color: red;
+    padding: 5px;
+}
+.lightblue{
+    background-color: lightblue;
+    padding: 5px;
+}
+body{
+    background-color: rgb(243, 237, 237);
+}
+.textwhite{
+    color:#ffffff;
+}
+.max100{
+    width: 100px;
+}
+
+.bkgcol{
+    background-color: rgb(0,0,255,0.20);
+    border-radius: 20px;
+    padding: 20px;
+    
+    margin-bottom: 25px;
+}
+.bluetext{
+    color:rgb(0,0,255)
+}
+.btn-primary{
+    border-radius: 20px;
+}
+
+.btn-primary:hover{
+    color: red;
+    border:solid red 2px;
+    background-color: #ffffff;
+}
+
+.btn-secondary{
+    border-radius: 20px;
+}
+.max175{
+    max-width: 185px;
+    min-width: 150px;
+    padding: 12px;
+}
+
+.bodystripes{
+    background-color:rgb(0,0,255,0.20);
+    padding: 10px;
+}
+
+.stripes1{
+    background-color:rgb(0,0,255,0.20);
+    padding: 10px;
+}
+
+.stripes2{
+    background-color:rgb(0,0,255,0.15);
+    padding: 10px;
+}
